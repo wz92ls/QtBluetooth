@@ -1,0 +1,12 @@
+armeabi-v7a/main.obj
+armeabi-v7a/device.obj
+armeabi-v7a/deviceinfo.obj
+armeabi-v7a/httpsclient.obj
+armeabi-v7a/serviceinfo.obj
+armeabi-v7a/characteristicinfo.obj
+armeabi-v7a/qrc_resources.obj
+armeabi-v7a/moc_device.obj
+armeabi-v7a/moc_deviceinfo.obj
+armeabi-v7a/moc_httpsclient.obj
+armeabi-v7a/moc_serviceinfo.obj
+armeabi-v7a/moc_characteristicinfo.obj

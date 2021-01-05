@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\lowenergyscanner\\android-build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Qt\\Qt5.14.2\\5.14.2\\android\\src\\android\\java\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1072,1180,1302,1414",
+                        "endColumns": "107,121,111,97",
+                        "endOffsets": "1175,1297,1409,1507"
+                    }
+                },
+                {
+                    "source": "D:\\lowenergyscanner\\android-build\\res\\values\\libs.xml",
+                    "from": {
+                        "startLines": "9,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1",
+                        "startOffsets": "301,-1,-1,-1",
+                        "endLines": "12,-1,-1,-1",
+                        "endColumns": "12,-1,-1,-1",
+                        "endOffsets": "428,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,6,9,21",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,185,363,956",
+                        "endLines": "5,8,20,23",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "180,358,951,1067"
+                    }
+                }
+            ]
+        }
+    ]
+}
